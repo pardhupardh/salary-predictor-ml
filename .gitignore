@@ -1,0 +1,54 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# =========================
+# IDE / Editor Files
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Streamlit Specific
+# =========================
+.streamlit/oauth-cache.json
+streamlit-webrtc/
+
+# =========================
+# Build / Dist
+# =========================
+dist/
+build/
+*.spec
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Environment Files
+# =========================
+.env
+*.env
+.env.*
